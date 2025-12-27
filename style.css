@@ -189,11 +189,11 @@ h2::after {
 }
 
 .mission-list {
-    flex-direction: column;
+ /*   flex-direction: column;*/
 }
 
 .mission-item {
-    border-left: 5px solid var(--color-accent);
+    border-left: 1px solid var(--color-accent);
 }
 
 
