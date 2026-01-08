@@ -189,7 +189,11 @@ h2::after {
 }
 
 .mission-list {
-    align: center;
+  display: grid;
+  place-items: center; /* Centers both horizontally and vertically */
+ /* height: 100vh;        Or a specific height for the container */
+}
+
 }
 
 .mission-item {
