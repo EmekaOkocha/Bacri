@@ -189,7 +189,7 @@ h2::after {
 }
 
 .mission-list {
-    position: center;
+    align: center;
 }
 
 .mission-item {
