@@ -26,7 +26,9 @@ body {
     background-color: var(--color-background);
     padding-top: 80px; /* Space for fixed header */
 }
-
+.team {
+    display: flex;
+}
 /* Container */
 .container {
     max-width: 1100px;
