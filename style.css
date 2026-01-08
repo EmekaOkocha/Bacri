@@ -191,7 +191,7 @@ h2::after {
 }
 
 .mission-list {
- /*   flex-direction: column;*/
+    flex-direction: column;
 }
 
 .mission-item {
