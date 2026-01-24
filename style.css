@@ -190,7 +190,7 @@ h2::after {
 
 .mission-list {
   display: grid;
-  place-items: center; /* Centers both horizontally and vertically */
+  place-items: left; /* Centers both horizontally and vertically */
  /* height: 100vh;        Or a specific height for the container */
 }
 
