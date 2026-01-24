@@ -190,7 +190,8 @@ h2::after {
 
 .mission-list {
   display: grid;
-  place-items: left; /* Centers both horizontally and vertically */
+  place-items: center;
+    /* Centers both horizontally and vertically */
  /* height: 100vh;        Or a specific height for the container */
 }
 
@@ -199,9 +200,11 @@ h2::after {
 .mission-item {
     border-left: 1px solid var(--color-accent);
     justify-content: center;
+    width: 45%;
 }
 .team {
     display: flex;
+    width: 80%;
 }
 
 /* --- Footer --- */
