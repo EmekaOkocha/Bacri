@@ -131,7 +131,6 @@ h2::after {
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: var(--color-light);
     position: relative;
     margin-bottom: 0;
 }
