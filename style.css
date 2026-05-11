@@ -26,9 +26,13 @@ body {
     background-color: var(--color-background);
     padding-top: 80px; /* Space for fixed header */
 }
-.imgcl {
+section {
     width: 100%;
+}
+.imgcl {
+    width: 70%;
     margin: center;
+    align-items: center;
 }
 
 /* #act-now{
@@ -89,9 +93,7 @@ nav ul li a.active {
 }
 
 /* --- Main Content Section --- */
-section {
-    padding: 60px 0;
-}
+
 
 h1, h2, h3 {
     font-family: var(--font-heading);
