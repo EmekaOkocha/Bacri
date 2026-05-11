@@ -53,7 +53,6 @@ section {
 header {
     background: var(--color-primary);
     color: var(--color-light);
-    position: fixed;
     top: 0;
     width: 100%;
     z-index: 1000;
