@@ -1,4 +1,4 @@
-:root {
+`    :root {
     /* Primary Colors for a serious, protective, and energetic feel */
     --color-primary: #004d99; /* Deep Blue for Protection/Trust */
     --color-secondary: #ff6347; /* Tomato Red/Orange for Urgency/Action */
@@ -25,6 +25,10 @@ body {
     color: var(--color-text);
     background-color: var(--color-background);
     padding-top: 80px; /* Space for fixed header */
+}
+.imgcl {
+    width: 100%;
+    margin: center;
 }
 
 /* Container */
