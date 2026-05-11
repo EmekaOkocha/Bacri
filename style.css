@@ -24,7 +24,7 @@ body {
     line-height: 1.6;
     color: var(--color-text);
     background-color: var(--color-background);
-    padding-top: 80px; /* Space for fixed header */
+    padding-top: 2%; /* Space for fixed header */
 }
 section {
     width: 70%;
