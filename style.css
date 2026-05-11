@@ -32,7 +32,8 @@ section {
 .imgcl {
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 100%;
+    height: 20%
 }
 
 /* #act-now{
